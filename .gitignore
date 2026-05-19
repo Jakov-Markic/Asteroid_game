@@ -1,0 +1,27 @@
+# Qt Creator user specific files
+*.user
+*.user.*
+
+# Compilation artifacts
+*.o
+*.obj
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile
+Makefile.*
+
+# Qt build directories (Creator usually names them build-<project>-...)
+build-*/
+    
+# Statically and dynamically linked libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.app/
